@@ -1,0 +1,2 @@
+# firstcode
+learning c/c++
